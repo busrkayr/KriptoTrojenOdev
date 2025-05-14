@@ -1,0 +1,2 @@
+# KriptoTrojenOdev
+Zararsız trojan
